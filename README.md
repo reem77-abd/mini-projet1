@@ -1,4 +1,5 @@
-# mini-projet1<!DOCTYPE html>
+# mini-projet1
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,7 +28,7 @@
 }
 
        
-       section{
+.section{
         max-width: 800px;
         margin: 2rem  auto;
         padding: 1.5rem;
@@ -38,7 +39,7 @@
        h2{
         color: red;
        }
-         footer{
+     .footer{
           text-align: center;
           padding: 1rem;
           background: black;
@@ -46,7 +47,7 @@
           margin-top: 3rem;
          }
 
-         select {
+ select {
     padding: 10px;
     border-radius: 8px;
     border: 2px solid red;
@@ -58,7 +59,7 @@ option {
     padding: 5px;
 }
 
-    </style>
+</style>
 </head>
 <body>
     <header>
