@@ -73,7 +73,7 @@ option {
     <h3>Contact</h3>
     <p>Email : : <a href="mailto:rfghjk@exemple.com" style="color:white;">rfghjk@exemple.com</a>rmourafi@gmail.com</p>
     <p>Adresse : Casablanca, Maroc</p>
-    <p>LinkedIn : <a href="https://www.linkedin.com/in/rachid-mourafi-1b0a4b1b2/" target="_blank" style="color:white;">Rim Mourafi</a></p>
+    <p>LinkedIn : <a href="https://www.linkedin.com/in/Bent - AL MOUDIR--1b0a4b1b2/" target="_blank" style="color:white;">Bent AL MOUDIR</a></p>
    <p>Téléphone : <a href="tel:+212600000000">0600000000</a></p>
     <section>
         <h2>a propos de moi </h2>
