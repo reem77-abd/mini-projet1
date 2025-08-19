@@ -71,10 +71,10 @@ option {
  </div>
     </header>
     <h3>Contact</h3>
-    <p>Email : : <a href="mailto:rmourafi@gmail.com" style="color:white;">rmourafi@gmail.com</a>rmourafi@gmail.com</p>
+    <p>Email : : <a href="mailto:rfghjk@exemple.com" style="color:white;">rfghjk@exemple.com</a>rmourafi@gmail.com</p>
     <p>Adresse : Casablanca, Maroc</p>
     <p>LinkedIn : <a href="https://www.linkedin.com/in/rachid-mourafi-1b0a4b1b2/" target="_blank" style="color:white;">Rim Mourafi</a></p>
-   <p>Téléphone : <a href="tel:+212634381919">0634381919</a></p>
+   <p>Téléphone : <a href="tel:+212600000000">0600000000</a></p>
     <section>
         <h2>a propos de moi </h2>
         <p> je suis passionné par le développement web etc et c'est mon premier projet <p>
